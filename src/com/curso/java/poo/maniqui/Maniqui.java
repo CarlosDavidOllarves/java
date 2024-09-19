@@ -75,11 +75,11 @@ public class Maniqui {
 		this.pantalon = pantalon;
 		this.camisa = camisa;
 	}
-//	public void vestir(Vestido vestido, Pantalon pantalon, Camisa camisa) {
-//		desvestir();
-//		this.vestido = vestido;
-//		this.pantalon = pantalon;
-//		this.camisa = camisa;
-//	}
+	public void vestir(Vestido vestido, Pantalon pantalon, Camisa camisa) {
+		desvestir();
+		this.vestido = vestido;
+		this.pantalon = pantalon;
+		this.camisa = camisa;
+	}
 		
 }
