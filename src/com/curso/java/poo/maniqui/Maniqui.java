@@ -81,7 +81,5 @@ public class Maniqui {
 		this.pantalon = pantalon;
 		this.camisa = camisa;
 	}
-	
-	
-	
+		
 }
